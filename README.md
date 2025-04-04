@@ -12,11 +12,11 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
 - 🔍 Filtros e pesquisa de tickets
 
 ## 🛠️ Tecnologias Utilizadas
-- 💻 **Linguagem**: Python / JavaScript
-- 🏗️ **Framework**: Django / Express.js
-- 🗄️ **Banco de Dados**: PostgreSQL / MongoDB
-- 🎨 **Frontend**: React / Vue.js
-- 🔑 **Autenticação**: JWT / OAuth2
+- 💻 **Linguagem**: 
+- 🏗️ **Framework**: 
+- 🗄️ **Banco de Dados**:
+- 🎨 **Frontend**: 
+- 🔑 **Autenticação**: 
 
 ## 🚀 Como Executar o Projeto
 ### ⚙️ Backend
