@@ -1,25 +1,25 @@
-# Sistema de Tickets
+# 🎟️ Sistema de Tickets
 
-## Descrição
+## 📌 Descrição
 Este é um sistema de tickets desenvolvido para gerenciar solicitações de suporte, incidentes e tarefas. Ele permite a criação, edição, atribuição e resolução de tickets, facilitando a organização e o atendimento de demandas.
 
-## Funcionalidades
-- Criação de tickets com título, descrição e prioridade
-- Atribuição de tickets a usuários
-- Atualização do status do ticket (Aberto, Em andamento, Resolvido, Fechado)
-- Comentários nos tickets
-- Notificações para mudanças de status
-- Filtros e pesquisa de tickets
+## ✨ Funcionalidades
+- 📝 Criação de tickets com título, descrição e prioridade
+- 👤 Atribuição de tickets a usuários
+- 🔄 Atualização do status do ticket (🟢 Aberto, 🟡 Em andamento, 🔵 Resolvido, 🔴 Fechado)
+- 💬 Comentários nos tickets
+- 🔔 Notificações para mudanças de status
+- 🔍 Filtros e pesquisa de tickets
 
-## Tecnologias Utilizadas
-- Linguagem: Python / JavaScript
-- Framework: Django / Express.js
-- Banco de Dados: PostgreSQL / MongoDB
-- Frontend: React / Vue.js
-- Autenticação: JWT / OAuth2
+## 🛠️ Tecnologias Utilizadas
+- 💻 **Linguagem**: Python / JavaScript
+- 🏗️ **Framework**: Django / Express.js
+- 🗄️ **Banco de Dados**: PostgreSQL / MongoDB
+- 🎨 **Frontend**: React / Vue.js
+- 🔑 **Autenticação**: JWT / OAuth2
 
-## Como Executar o Projeto
-### Backend
+## 🚀 Como Executar o Projeto
+### ⚙️ Backend
 1. Clone o repositório:
    ```sh
    git clone https://github.com/seu-usuario/sistema-de-tickets.git
@@ -37,7 +37,7 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
    node server.js  # Express.js
    ```
 
-### Frontend
+### 🎨 Frontend
 1. Acesse o diretório do frontend:
    ```sh
    cd sistema-de-tickets/frontend
@@ -51,13 +51,12 @@ Este é um sistema de tickets desenvolvido para gerenciar solicitações de supo
    npm run dev
    ```
 
-## Contribuição
-1. Faça um fork do repositório.
+## 🤝 Contribuição
+1. Faça um **fork** do repositório.
 2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`).
+3. Commit suas mudanças (`git commit -m '✨ Adiciona nova funcionalidade'`).
 4. Faça push para a branch (`git push origin minha-feature`).
-5. Abra um Pull Request.
+5. Abra um **Pull Request**.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
+## 📜 Licença
+Este
